@@ -1,0 +1,6 @@
+.vscode
+.cache
+# clangd
+compile_commands.json
+# built executable
+gio-filemonitor
